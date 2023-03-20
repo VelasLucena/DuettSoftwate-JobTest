@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+    .App table {
+        margin-left: auto;
+        margin-right: auto;
+        width: 60%;
+        text-align:center;
+    }
+
+        .App table .ColumButton {
+            width: 50%;
+        }
+
+.boxTable {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top:30px;
+}
+
+
